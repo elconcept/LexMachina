@@ -1,5 +1,9 @@
 # KC — część 1: przedawnienie, kara umowna, wady oświadczenia woli, bezpodstawne wzbogacenie, odsetki
 
+**Akt:** KC — t.j. Dz.U. 2026 poz. 795 (zm. 2026/507 [OD 2028-11-01: 2026/507] — art. 860 § 3–4, umowa spółki cywilnej przez CEIDG; nie dotyczy przepisów modułu).
+**Akt:** KPC — t.j. Dz.U. 2026 poz. 468 (zm. po t.j., wszystkie w mocy: 2026/473, 2026/830 od 2026-07-08; 2026/1003 od 2026-10-28; 2026/1046 od 2026-11-05; 2026/1296 od 2026-11-06 — zakres: nagłówek mod-KPC-art162-zastrzezenie-protokol; z przepisów powołanych w module zmieniony tylko art. 17 — dodany pkt 4⁶).
+**Moduł wskazuje przepis i jego funkcję (kwalifikator), nie zastępuje brzmienia.** Kwalifikatory sprawdzone z t.j. w ELI 2026-11-14 (terminy i progi: W-1).
+
 > Część modułu `mod-KC-cywilne-zobowiazania-odpowiedzialnosc.md`
 > (podział 2026-08-20, naprawa F-78 — plik źródłowy przekroczył 1300
 > linii). Pełny indeks i zasady użycia: zobacz plik nadrzędny w katalogu
@@ -16,12 +20,12 @@
 |---|---|---|---|
 | Ogólny | 6 lat | art. 118 | Koniec: ostatni dzień roku kalendarzowego |
 | Z działalności gospodarczej | 3 lata | art. 118 | Między przedsiębiorcami |
-| Delikt — od wiedzy | 3 lata | art. 4421 §1 | Od dowiedzenia się o szkodzie i sprawcy |
-| Delikt — max | 10 lat | art. 4421 §1 | Od zdarzenia |
-| Delikt — zbrodnia/występek | 20 lat | art. 4421 §2 | Od popełnienia |
-| Sprzedaż | 2 lata | art. 554 | |
+| Delikt — od wiedzy | 3 lata | art. 442¹ § 1 | Od dowiedzenia się o szkodzie i sprawcy |
+| Delikt — max | 10 lat | art. 442¹ § 1 | Od zdarzenia |
+| Delikt — zbrodnia/występek | 20 lat | art. 442¹ § 2 | Od popełnienia |
+| Sprzedaż w zakresie działalności przedsiębiorstwa sprzedawcy (także rzemieślnik, płody rolne) | 2 lata | art. 554 | Inna sprzedaż — art. 118 |
 | Dzieło | 2 lata | art. 646 | Od oddania dzieła |
-| Zachowek | 5 lat | art. 1007 | Od ogłoszenia testamentu |
+| Zachowek | 5 lat | art. 1007 | § 1: od ogłoszenia testamentu; § 2–4 (uzupełnienie od obdarowanego, zapisobiercy windykacyjnego, fundacji rodzinnej): od otwarcia spadku |
 | Wyrok / ugoda sądowa | 6 lat | art. 125 | Od uprawomocnienia |
 | Skarga pauliańska | 5 lat | art. 534 | Od daty pokrzywdzającej czynności |
 
@@ -62,10 +66,10 @@ Skutek miarkowania: zmniejszenie kary, nie jej uchylenie
 |---|---|---|---|
 | Brak świadomości lub swobody | art. 82 | Bezwzględna nieważność | Brak — nieważne z mocy prawa |
 | Pozorność | art. 83 | Bezwzględna nieważność | Brak — nieważne z mocy prawa |
-| Błąd co do treści | art. 84 | Wzruszalność | 1 rok od wykrycia |
-| Podstęp | art. 86 | Wzruszalność | 1 rok od wykrycia |
-| Groźba | art. 87 | Wzruszalność | 1 rok od ustania obawy |
-| Wyzysk | art. 388 | Zmiana lub unieważnienie | 3 lata (6 lat — konsument) |
+| Błąd co do treści | art. 84 | Wzruszalność | 1 rok od wykrycia (art. 88 § 2) |
+| Podstęp | art. 86 | Wzruszalność | 1 rok od wykrycia błędu (art. 88 § 2) |
+| Groźba | art. 87 | Wzruszalność | 1 rok od ustania obawy (art. 88 § 2); oświadczenie na piśmie (art. 88 § 1) |
+| Wyzysk | art. 388 | Zmiana lub unieważnienie | 3 lata od zawarcia umowy (6 lat — konsument), art. 388 § 2 |
 
 **Art. 388 §1¹ KC (domniemanie wyzysku):** jeżeli wartość świadczenia jednej strony przewyższa co najmniej dwukrotnie wartość świadczenia wzajemnej — domniemywa się rażącą dysproporcję.
 

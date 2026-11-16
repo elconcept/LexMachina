@@ -18,15 +18,15 @@ Mapa runtime pokazuje wyłącznie bieżący stan aktu → moduł. Historia korek
 | Zamówienia dofinansowane z UE — PZP + Wytyczne kwalifikowalności 2021–2027 | PZP + aktualne wytyczne MFiPR | `mod-PZP-fundusze-UE-podwojny-rezim` | 🟢 operacyjny; wytyczne zawsze fresh gate |
 | PZP art. 99 ust. 4–6 — opis przedmiotu zamówienia | Dz.U. 2026 poz. 793 t.j. | `mod-PZP-opis-przedmiotu-zakaz-znakow-towarowych` | 🟢 operacyjny |
 | Prawo o notariacie | Dz.U. 2026 poz. 614 t.j. | `mod-PrNotariat-notariat-rejestry` | 🟢 operacyjny |
-| Ustawa o NIK | Dz.U. 2022 poz. 623 ze zm. | `mod-ustawa-NIK` | 🟢 operacyjny; aktualność konkretnej jednostki fresh gate |
+| Ustawa o NIK | Dz.U. 2022 poz. 623 t.j. ze zm. | `mod-ustawa-NIK` | 🟢 operacyjny; aktualność konkretnej jednostki fresh gate |
 | Partnerstwo publiczno-prywatne | Dz.U. 2023 poz. 1637 t.j. | `mod-ustawa-PPP-i-koncesja` | 🟢 operacyjny |
 | Certyfikacja wykonawców zamówień publicznych | Dz.U. 2025 poz. 1235 | `mod-ustawa-PZP-certyfikacja-wykonawcow` | 🟢 operacyjny |
 | Prokuratoria Generalna RP | Dz.U. 2024 poz. 1192 t.j. | `mod-ustawa-Prokuratorii-Generalnej` | 🟢 operacyjny |
 | Regionalne izby obrachunkowe | Dz.U. 2025 poz. 7 t.j. | `mod-ustawa-RIO-regionalne-izby` | 🟢 operacyjny |
 | KPC — arbitraż i mediacja | Dz.U. 2026 poz. 468 t.j. | `mod-ustawa-arbitraz-mediacja` | 🟢 operacyjny |
 | Odpowiedzialność za naruszenie dyscypliny finansów publicznych | Dz.U. 2025 poz. 1484 t.j. | `mod-ustawa-dyscyplina-finansow-publicznych` | 🟢 operacyjny |
-| Ustawa wdrożeniowa 2021–2027 | Dz.U. 2025 poz. 1733 t.j. | `mod-ustawa-fundusze-UE-pomoc-publiczna` | 🟢 operacyjny |
-| Zasady prowadzenia polityki rozwoju | Dz.U. 2025 poz. 198 t.j. | `mod-ustawa-fundusze-UE-pomoc-publiczna` | 🟢 operacyjny |
+| Ustawa wdrożeniowa 2021–2027 | Dz.U. 2025 poz. 1733 t.j.; po t.j.: 2025/1844 (od 1.01.2026), 2026/912 art. 86 (od 31.07.2026) ✅ [VER] ELI 2026-11-11 | `mod-ustawa-fundusze-UE-pomoc-publiczna` | 🟢 operacyjny |
+| Zasady prowadzenia polityki rozwoju | Dz.U. 2026 poz. 1366 t.j. (ELI 2026-11-11) | `mod-ustawa-fundusze-UE-pomoc-publiczna` | 🟢 operacyjny |
 
 ## Reguła użycia
 

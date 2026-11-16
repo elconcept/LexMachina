@@ -1,5 +1,8 @@
 # mod-KRO-rodzinne — indeks bieżący
 
+**Akt:** KRO — t.j. Dz.U. 2026 poz. 236 (po t.j. bez zmian).
+**Moduł wskazuje przepis i jego funkcję (kwalifikator), nie zastępuje brzmienia.** Kwalifikatory sprawdzone z t.j. w ELI 2026-11-14 (terminy i progi: W-1).
+
 **Hasła spraw:** alimenty, obowiązek alimentacyjny, rozwód, separacja, wina rozkładu pożycia, władza rodzicielska, kontakty z dzieckiem, piecza nad dzieckiem, ustalenie ojcostwa, majątek wspólny małżonków, podział majątku, intercyza
 
 **Stan operacyjny:** 2026-08-28  
@@ -44,6 +47,7 @@ Ten plik jest indeksem operacyjnym KRO. Treść szczegółowa jest podzielona na
 - **Pochodzenie dziecka:** terminy zawite i legitymację procesową pobieraj z aktualnego KRO/KPC dla konkretnego roszczenia.
 - **Majątek:** odróżniaj przynależność składnika do majątku wspólnego/osobistego od sposobu rozliczenia nakładów i od samego postępowania działowego.
 - **Opieka/kuratela:** używaj dedykowanego modułu; nie mieszaj z władzą rodzicielską.
+- **Dobro dziecka:** w sprawach o władzę rodzicielską, kontakty, miejsce pobytu i pieczę wykonaj `view shared/MOD-DOBRO-DZIECKA.md` — rozdziel twierdzenia rodziców od dowodów, nie wyprowadzaj stanu dziecka z konfliktu dorosłych, oceń rozwiązanie z perspektywy dziecka.
 
 ## Intake minimalny
 

@@ -1,5 +1,12 @@
 # CHANGELOG — dr-07-zamowienia-publiczne-fundusze-ue
 
+- 3.26 (2026-11-15): DR-02: testy prawa upadłościowego (okno znacznika poziomu A); odesłania do KATALOG-TJ w DR; mapy_tj zachowuje katalog w przebiegu dziennym; check_procedowane zarejestrowany
+- 3.25 (2026-11-15): Pełny katalog obowiązujących t.j. (2 664 akty z ELI) w KATALOG-TJ dziedzin i prawo-polskie-v2: dziedzina z nagłówka modułu, podstawy prawnej aktu wykonawczego albo tytułu; monitoring projektów ustaw (PROJEKTY-W-TOKU), lista zmian od ostatniej aktualizacji systemu (ZMIANY-OD-AKTUALIZACJI, STAN-AKTUALIZACJI.json)
+- 3.24 (2026-11-14): Konwencja t.j.: KATALOG-TJ.md w DR-01…15 i prawo-polskie-v2 (akty z nagłówków modułów), MAPA-AKTOW tylko routing z sufiksem t.j., scripts/mapy_tj.py w dziennym workflow ELI
+- 3.23 (2026-11-14): Mapy aktów w jednej konwencji t.j.: MAPA-AKTOW DR-01…15 uzupełnione o 105 aktów z nagłówków modułów (sekcja RAG bez wpływu na routing), sufiks t.j. w tabelach routingu, LEGAL-REGISTRY: 247 tekstów jednolitych systemu; scripts/mapy_tj.py w dziennym workflow ELI
+- 3.22 (2026-11-14): DR-07: wskazania z kwalifikatorem (PZP 2026/793, PrNot, NIK, RIO, UNDFP, UZRFE, pomoc publiczna); UNDFP art. 31 ust. 4 zamiast art. 34; W-4 2026/1099
+- 3.21 (2026-11-11, ELI 2026-11-11): MAPA-AKTOW: ustawa wdrożeniowa 2021–2027 — zmiany po t.j. 2025/1733: 2025/1844, 2026/912 art. 86.
+- 3.20 (2026-11-11, ELI 2026-11-11): Ustawa o zasadach prowadzenia polityki rozwoju — t.j. Dz.U. 2026 poz. 1366 (zastępuje 2025/198; obejmuje 2025/1846: art. 5 pkt 7ac, art. 14ll–14lr, rozdz. 2ac; hierarchia dokumentów bez zmian); MAPA-AKTOW.
 - 3.19 (2026-11-06): migracja prawa polskiego E3: ścieżki odwołań do modułów przeniesionych z shared i skilli wykonawczych do prawo-polskie-v2/krajowe/ (treść bez zmian)
 - 3.18 (2026-10-20, LEXAGENTO-P1): mod-PZP XI-XII: pełna ścieżka modułu PIP
 - 3.17 (2026-10-20, AUDYT-2026-10-20g): SKILL.md: znacznik `lex:wykonuje-aplikacja: REJESTR-MODULOW` nad rejestrem modułów — w trybie mechanicznym aplikacja podaje modelowi indeks nazw (moduły aktów dobiera z MAPA-AKTOW), w AUTO rejestr w całości

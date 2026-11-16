@@ -8,12 +8,16 @@ source_policy: "RZĄD 1 only"
 
 # Ustawa o systemie ubezpieczeń społecznych — uzupełnienie pokrycia
 
+**Akt:** SUS (ustawa o systemie ubezpieczeń społecznych) — t.j. Dz.U. 2026 poz. 1474 (stan 2026-10-04; zm. 2025/1413 od 2026-11-01 — art. 45, 50; 2026/507 [OD 2028-11-01: 2026/507] — art. 36b, 43).
+**Akt:** FUS (ustawa o emeryturach i rentach z FUS) — t.j. Dz.U. 2025 poz. 1749 (zm. 2025/718 i 2025/1159 od 2026-01-01 — m.in. art. 80, 94, 115–118a, 129–130, 138, 144; 2026/425 od 2026-04-14 — art. 50e; 2026/26 [OD 2027-01-01: 2026/26] — art. 5, 5a, 13, 14, 50c, 50d, 119, 126, 134, część przepisów od 2026-04-13).
+**Moduł wskazuje przepis i jego funkcję (kwalifikator), nie zastępuje brzmienia.** Kwalifikatory sprawdzone z t.j. w ELI 2026-11-14 (W-1: terminy, progi i kwoty porównane z t.j.).
+
 ## 1. Źródło
 
-Aktualny tekst jednolity: **Dz.U. 2026 poz. 199**, stan prawny 06.02.2026.
+Aktualny tekst jednolity: **Dz.U. 2026 poz. 1474**, stan prawny 4.10.2026 (ELI 2026-11-11; zmiany względem poprzedniego t.j. 2026/199 — `mod-SUS-current-state-COV.md` §1).
 ELI wskazuje cztery akty zmieniające po tekście jednolitym.
 
-- https://eli.gov.pl/eli/DU/2026/199/ogl
+- https://eli.gov.pl/eli/DU/2026/1474/ogl
 - https://eli.gov.pl/eli/DU/1998/887/tj
 
 ## 2. Rozdział 1 — art. 1–5
@@ -97,7 +101,7 @@ również DR-03/KKS.
 ## 10. Quality gate
 
 - [ ] tytuł ubezpieczenia ustalony;
-- [ ] aktualne akty zmieniające po 2026/199 sprawdzone;
+- [ ] aktualne akty zmieniające po 2026/1474 sprawdzone;
 - [ ] podstawa wymiaru = ustawa + właściwe rozporządzenie;
 - [ ] protokół kontroli odróżniony od decyzji;
 - [ ] odwołanie prowadzone według szczególnego KPC.

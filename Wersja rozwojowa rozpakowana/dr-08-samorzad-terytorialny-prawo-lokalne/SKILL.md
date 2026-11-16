@@ -1,6 +1,6 @@
 ---
 name: dr-08-samorzad-terytorialny-prawo-lokalne
-version: "3.24"
+version: "3.31"
 description: "Samorząd terytorialny i prawo lokalne: gmina, powiat, województwo, uchwały, akty prawa miejscowego, nadzór, kompetencje JST i lokalne planowanie."
 dependencies:
   requires:
@@ -78,7 +78,7 @@ Przy sprawach z tej dziedziny rozważ doładowanie (`view`) definicji:
 - BAS-107 Droga wewnętrzna (definicja negatywna — mandat zasadniczo niedopuszczalny)
 
 <!-- lex:wykonuje-aplikacja: REJESTR-MODULOW -->
-## Moduły (20 łącznie — ✓ 20 OK, ☐ 0 STUB)
+## Moduły (21 łącznie — ✓ 21 OK, ☐ 0 STUB)
 
   [✓] OK    mod-wojewoda-administracja-rzadowa-current-state-COV
 
@@ -114,6 +114,9 @@ MODUŁY DZIEDZINOWE (prawo materialne):
   [✓] OK    mod-ustawa-dochody-JST
   [✓] OK    mod-ustawa-zarzadzanie-kryzysowe
   [✓] OK    mod-ustawa-referendum-lokalne
+  [✓] OK    mod-zwiazki-metropolitalne
+              (związek metropolitalny w woj. pomorskim Dz.U. 2026 poz. 912 — w mocy od 31.07.2026,
+               związek nieutworzony do wydania rozporządzenia RM; śląski Dz.U. 2025 poz. 186 t.j. + 2026/912 art. 81)
   [✓] OK    mod-ustawa-pracownicy-samorzadowi
   [✓] OK    mod-ustawa-komunalne-wod-kan-transport-czystosc
               (scalony: wod-kan + transport zbiorowy + czystość i porządek)
@@ -136,6 +139,8 @@ view dr-08-samorzad-terytorialny-prawo-lokalne/modules/[nazwa-modulu].md
 ```
 view dr-08-samorzad-terytorialny-prawo-lokalne/MAPA-AKTOW.md
 ```
+
+Akt bez wiersza w mapie: katalog wszystkich obowiązujących tekstów jednolitych dziedziny w konwencji modułów (t.j., zmiany po t.j., moduły) — `dr-08-samorzad-terytorialny-prawo-lokalne/KATALOG-TJ.md`. Brzmienie przepisu zawsze z ELI.
 
 ## Mapa pokrycia treściowego (planowanie rozwoju skilla)
 

@@ -51,17 +51,17 @@ Mapa runtime zawiera wyłącznie bieżące przypisanie **akt / zakres → moduł
 | KSH — uzupełnienie pokrycia | jw. | `mod-KSH-uzupelnienie-pokrycia-2026` | 🟡 B |
 | KSH — organy sp. z o.o. | jw. | `mod-KSH-organy-spolki-zoo` | ✅ aktywny |
 | KSH — spółki osobowe / rada nadzorcza | jw. | `mod-KSH-spolki-osobowe-rada-nadzorcza` | ✅ aktywny |
-| Prawo przedsiębiorców — current-state | Dz.U. 2025 poz. 1480 t.j. ze zm. (m.in. 2026/507 art. 7 — w życie 14.10.2026) | `mod-Prawo-przedsiebiorcow-current-state-COV.md` + `mod-prawo-przedsiebiorcow` | 🟢 B+/COV |
+| Prawo przedsiębiorców — current-state | Dz.U. 2026 poz. 1484 t.j. (obejmuje zm. 2025/1795, 2025/1826, 2026/507) | `mod-Prawo-przedsiebiorcow-current-state-COV.md` + `mod-prawo-przedsiebiorcow` | 🟢 B+/COV |
 | Prawo przedsiębiorców — kontrola / koncesje + weksle | jw. + akty wekslowe | `mod-wekslowe-kontrola-przedsiebiorcy-koncesje` | ✅ aktywny |
 | Ustawa o CEIDG i Punkcie Informacji dla Przedsiębiorcy | Dz.U. 2026 poz. 30 t.j.; zm. po t.j.: 2026/734 (od 20.06.2026), 2026/507 — etapami: 21.04.2026 (art. 1 pkt 2 lit. a, pkt 46, pkt 53 w zakresie art. 64 ust. 2), 14.10.2026 (zasadnicza część), 1.11.2026 (art. 1 pkt 4 lit. a tiret pierwsze, pkt 43 lit. a), ⏳ 1.11.2028 (m.in. publikacja informacji o spółce cywilnej, art. 42a–42b) ✅ [VER] RZĄD 1 2026-10-15 (ELI) | `mod-prawo-przedsiebiorcow` (routing CEIDG) | ✅ aktywny; fresh gate |
 | KRS | Dz.U. 2025 poz. 869 t.j. ze zm. | `mod-ustawa-KRS-rejestr-sadowy` | 🟢 B+/COV |
 | UZNK | Dz.U. 2026 poz. 85 t.j. ze zm. | `mod-ustawa-UZNK-nieuczciwa-konkurencja` | ✅ aktywny |
 | Prawo upadłościowe | Dz.U. 2026 poz. 913 t.j. ze zm. | `mod-PrUpad-upadlosc-restrukturyzacja` + rodzina PrUp | ✅ aktywny; fresh gate |
-| PrUp — Pełny tekst PrUp, wersje czasowe, indeks artykułów i odczyt ELI | Dz.U. 2026 poz. 913; 2026/1206: zmiana art. 452 i 456 od 11.01.2027 | `mod-PrUpad-zrodla-i-wersje` | źródło pełne / workflow B; fresh gate |
-| PrUp — Zgłoszenia, braki, zwrot, sprawdzanie, lista i sprzeciw | Dz.U. 2026 poz. 913; 2026/1206: zmiana art. 452 i 456 od 11.01.2027 | `mod-PrUpad-wierzytelnosci-235-266` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
-| PrUp — Fundusze masy, kategorie, zabezpieczenia i plan podziału | Dz.U. 2026 poz. 913; 2026/1206: zmiana art. 452 i 456 od 11.01.2027 | `mod-PrUpad-podzial-335-360` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
-| PrUp — Czynności syndyka, wynagrodzenie, sprawozdania, plan i sprzedaż | Dz.U. 2026 poz. 913; 2026/1206: zmiana art. 452 i 456 od 11.01.2027 | `mod-PrUpad-syndyk-likwidacja` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
-| PrUp — Upadłość konsumencka osoby fizycznej (oddłużenie): tryby konsumenckie, wyłączenia części pierwszej i plan spłaty | Dz.U. 2026 poz. 913; 2026/1206: zmiana art. 452 i 456 od 11.01.2027 | `mod-PrUpad-konsument-workflow` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
+| PrUp — Pełny tekst PrUp, wersje czasowe, indeks artykułów i odczyt ELI | Dz.U. 2026 poz. 913 t.j.; 2026/1206: zmiana art. 452 i 456 od 11.01.2027 | `mod-PrUpad-zrodla-i-wersje` | źródło pełne / workflow B; fresh gate |
+| PrUp — Zgłoszenia, braki, zwrot, sprawdzanie, lista i sprzeciw | Dz.U. 2026 poz. 913 t.j.; 2026/1206: zmiana art. 452 i 456 od 11.01.2027 | `mod-PrUpad-wierzytelnosci-235-266` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
+| PrUp — Fundusze masy, kategorie, zabezpieczenia i plan podziału | Dz.U. 2026 poz. 913 t.j.; 2026/1206: zmiana art. 452 i 456 od 11.01.2027 | `mod-PrUpad-podzial-335-360` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
+| PrUp — Czynności syndyka, wynagrodzenie, sprawozdania, plan i sprzedaż | Dz.U. 2026 poz. 913 t.j.; 2026/1206: zmiana art. 452 i 456 od 11.01.2027 | `mod-PrUpad-syndyk-likwidacja` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
+| PrUp — Upadłość konsumencka osoby fizycznej (oddłużenie): tryby konsumenckie, wyłączenia części pierwszej i plan spłaty | Dz.U. 2026 poz. 913 t.j.; 2026/1206: zmiana art. 452 i 456 od 11.01.2027 | `mod-PrUpad-konsument-workflow` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
 | PrUp — układ w postępowaniu upadłościowym (art. 266a–266f) | jw. | `mod-PrUpad-uklad-likwidacja-zakonczenie` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
 | PrUp — postępowanie międzynarodowe, po śmierci dłużnika, deweloper (art. 378–425s) | jw. | `mod-PrUpad-likwidacja-miedzynarodowe-szczegolne` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
 | PrUp — postępowania odrębne: banki, SKOK, banki hipoteczne, instytucje EOG, ubezpieczyciele, obligacje, układ konsumencki (art. 426–491, 491²⁵–491³⁸) | jw. | `mod-PrUpad-postepowania-odrebne-426-491-38` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
@@ -87,7 +87,7 @@ Mapa runtime zawiera wyłącznie bieżące przypisanie **akt / zakres → moduł
 | Reklama wobec nieletnich | UPNPR Dz.U. 2023 poz. 845 t.j. + ustawa o radiofonii i telewizji Dz.U. 2022 poz. 1722 t.j. ze zm. | `mod-reklama-wobec-nieletnich` | ✅ aktywny; fresh gate |
 | Ochrona praw lokatorów | Dz.U. 2023 poz. 725 t.j. ze zm. | `mod-ustawa-ochrona-praw-lokatorow-najem-eksmisja` | 🟢 B+/COV |
 | Kaucja przy najmie lokalu | ustawa o ochronie praw lokatorów — aktualne brzmienie na dzień sprawy | `mod-kaucja-najem-lokalu` | ✅ aktywny; fresh gate |
-| Ustawa deweloperska / ochrona nabywcy | właściwe aktualne brzmienie ustawy deweloperskiej | `mod-ustawa-deweloperska` | ✅ aktywny; fresh gate |
+| Ustawa deweloperska / ochrona nabywcy | Dz.U. 2026 poz. 880 t.j.; po t.j.: 2026/1077 art. 1 (art. 19b ust. 1, 2a–2b — dane w formie dokumentu elektronicznego, od 11.11.2026) ✅ [VER] ELI 2026-11-11 | `mod-ustawa-deweloperska` | ✅ aktywny; fresh gate |
 | Własność lokali | Dz.U. 2026 poz. 232 t.j. ze zm. | `mod-ustawa-spoldzielnie-wlasnosc-lokali` | 🟢 B+/COV |
 | Księgi wieczyste i hipoteka | Dz.U. 2026 poz. 1066 t.j. ze zm. | `mod-KW-ksiega-wieczysta-zakup-nieruchomosci` | 🟢 B+/COV |
 | Prawo spółdzielcze | Dz.U. 2026 poz. 521 t.j. ze zm. | `mod-prawo-spoldzielcze` | 🟢 B+/COV |
@@ -114,14 +114,14 @@ Mapa runtime zawiera wyłącznie bieżące przypisanie **akt / zakres → moduł
 
 | Zakres | Podstawa | Moduł | Status |
 |---|---|---|---|
-| PrRestr — Prawo restrukturyzacyjne — pełny korpus i sposób użycia | Dz.U. 2026 poz. 533; metryka i kontrola nowelizacji w korpusie | `mod-PrRestr-zrodla-i-wersje` | pełne źródło / procedura tematyczna; fresh gate |
-| PrRestr — Restrukturyzacja — kwalifikacja sprawy, plan i test zaspokojenia | Dz.U. 2026 poz. 533; metryka i kontrola nowelizacji w korpusie | `mod-PrRestr-wejscie-plan-test` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
-| PrRestr — Postępowanie o zatwierdzenie układu — pełny przebieg | Dz.U. 2026 poz. 533; metryka i kontrola nowelizacji w korpusie | `mod-PrRestr-pzu` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
-| PrRestr — Przyspieszone postępowanie układowe i postępowanie układowe | Dz.U. 2026 poz. 533; metryka i kontrola nowelizacji w korpusie | `mod-PrRestr-ppu-pu` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
-| PrRestr — Sanacja — zarząd, działania sanacyjne i układ | Dz.U. 2026 poz. 533; metryka i kontrola nowelizacji w korpusie | `mod-PrRestr-sanacja` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
-| PrRestr — Restrukturyzacja — procedura wspólna, zakończenie i upadłość | Dz.U. 2026 poz. 533; metryka i kontrola nowelizacji w korpusie | `mod-PrRestr-procedura-zakonczenie` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
-| PrRestr — Restrukturyzacja — transgraniczne, odrębne, karne i przejściowe | Dz.U. 2026 poz. 533; metryka i kontrola nowelizacji w korpusie | `mod-PrRestr-odrebne-miedzynarodowe` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
-| PrUp — Upadłość — przesłanki, wniosek, zabezpieczenie i pre-pack | Dz.U. 2026 poz. 913; metryka i kontrola nowelizacji w korpusie | `mod-PrUpad-wniosek-ogloszenie` | ✅ A / COV-ART (każdy aktywny art. 1–56h omówiony); fresh gate |
-| PrUp — Upadłość — masa, umowy, bezskuteczność i procesy | Dz.U. 2026 poz. 913; metryka i kontrola nowelizacji w korpusie | `mod-PrUpad-skutki-masa-bezskutecznosc` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
-| PrUp — Upadłość — organy, wierzyciele i wspólna procedura | Dz.U. 2026 poz. 913; metryka i kontrola nowelizacji w korpusie | `mod-PrUpad-organy-procedura` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
-| PrUp — Upadłość — zakończenie, oddłużenie przedsiębiorcy, zakaz i przepisy końcowe | Dz.U. 2026 poz. 913; metryka i kontrola nowelizacji w korpusie | `mod-PrUpad-zakonczenie-zakaz-karne` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
+| PrRestr — Prawo restrukturyzacyjne — pełny korpus i sposób użycia | Dz.U. 2026 poz. 533 t.j.; metryka i kontrola nowelizacji w korpusie | `mod-PrRestr-zrodla-i-wersje` | pełne źródło / procedura tematyczna; fresh gate |
+| PrRestr — Restrukturyzacja — kwalifikacja sprawy, plan i test zaspokojenia | Dz.U. 2026 poz. 533 t.j.; metryka i kontrola nowelizacji w korpusie | `mod-PrRestr-wejscie-plan-test` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
+| PrRestr — Postępowanie o zatwierdzenie układu — pełny przebieg | Dz.U. 2026 poz. 533 t.j.; metryka i kontrola nowelizacji w korpusie | `mod-PrRestr-pzu` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
+| PrRestr — Przyspieszone postępowanie układowe i postępowanie układowe | Dz.U. 2026 poz. 533 t.j.; metryka i kontrola nowelizacji w korpusie | `mod-PrRestr-ppu-pu` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
+| PrRestr — Sanacja — zarząd, działania sanacyjne i układ | Dz.U. 2026 poz. 533 t.j.; metryka i kontrola nowelizacji w korpusie | `mod-PrRestr-sanacja` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
+| PrRestr — Restrukturyzacja — procedura wspólna, zakończenie i upadłość | Dz.U. 2026 poz. 533 t.j.; metryka i kontrola nowelizacji w korpusie | `mod-PrRestr-procedura-zakonczenie` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
+| PrRestr — Restrukturyzacja — transgraniczne, odrębne, karne i przejściowe | Dz.U. 2026 poz. 533 t.j.; metryka i kontrola nowelizacji w korpusie | `mod-PrRestr-odrebne-miedzynarodowe` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
+| PrUp — Upadłość — przesłanki, wniosek, zabezpieczenie i pre-pack | Dz.U. 2026 poz. 913 t.j.; metryka i kontrola nowelizacji w korpusie | `mod-PrUpad-wniosek-ogloszenie` | ✅ A / COV-ART (każdy aktywny art. 1–56h omówiony); fresh gate |
+| PrUp — Upadłość — masa, umowy, bezskuteczność i procesy | Dz.U. 2026 poz. 913 t.j.; metryka i kontrola nowelizacji w korpusie | `mod-PrUpad-skutki-masa-bezskutecznosc` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
+| PrUp — Upadłość — organy, wierzyciele i wspólna procedura | Dz.U. 2026 poz. 913 t.j.; metryka i kontrola nowelizacji w korpusie | `mod-PrUpad-organy-procedura` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |
+| PrUp — Upadłość — zakończenie, oddłużenie przedsiębiorcy, zakaz i przepisy końcowe | Dz.U. 2026 poz. 913 t.j.; metryka i kontrola nowelizacji w korpusie | `mod-PrUpad-zakonczenie-zakaz-karne` | ✅ A / COV-ART (każdy aktywny artykuł omówiony); fresh gate |

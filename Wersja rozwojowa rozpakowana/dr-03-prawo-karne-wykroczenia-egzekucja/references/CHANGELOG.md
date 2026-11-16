@@ -1,5 +1,11 @@
 # CHANGELOG — dr-03-prawo-karne-wykroczenia-egzekucja
 
+- 3.81 (2026-11-15): DR-02: testy prawa upadłościowego (okno znacznika poziomu A); odesłania do KATALOG-TJ w DR; mapy_tj zachowuje katalog w przebiegu dziennym; check_procedowane zarejestrowany
+- 3.80 (2026-11-15): Pełny katalog obowiązujących t.j. (2 664 akty z ELI) w KATALOG-TJ dziedzin i prawo-polskie-v2: dziedzina z nagłówka modułu, podstawy prawnej aktu wykonawczego albo tytułu; monitoring projektów ustaw (PROJEKTY-W-TOKU), lista zmian od ostatniej aktualizacji systemu (ZMIANY-OD-AKTUALIZACJI, STAN-AKTUALIZACJI.json)
+- 3.79 (2026-11-14): Konwencja t.j.: KATALOG-TJ.md w DR-01…15 i prawo-polskie-v2 (akty z nagłówków modułów), MAPA-AKTOW tylko routing z sufiksem t.j., scripts/mapy_tj.py w dziennym workflow ELI
+- 3.78 (2026-11-14): Mapy aktów w jednej konwencji t.j.: MAPA-AKTOW DR-01…15 uzupełnione o 105 aktów z nagłówków modułów (sekcja RAG bez wpływu na routing), sufiks t.j. w tabelach routingu, LEGAL-REGISTRY: 247 tekstów jednolitych systemu; scripts/mapy_tj.py w dziennym workflow ELI
+- 3.77 (2026-11-14): DR-03 komplet: 71 modułów + 8 części kwalifikatora w formacie wskazań; poprawki zagrożeń art. 234-244b KK, przedawnienie cyber, art. 244 przy nakazie Policji, tabela kar frameworku
+- 3.76 (2026-11-13): mod-KKW: art. 144 § 5 KKW uchylony — kontrola decyzji dyscyplinarnej: skarga z art. 7 KKW (ELI 2026-11-13, check_uchylone.py)
 - 3.75 (2026-11-06): migracja prawa polskiego E3: ścieżki odwołań do modułów przeniesionych z shared i skilli wykonawczych do prawo-polskie-v2/krajowe/ (treść bez zmian)
 - 3.74 (2026-10-31, BENCHMARK-02): KW — aktualny t.j. Dz.U. 2026 poz. 1372 (benchmark 02 P01): re-ver art. 19, 24 § 1a, 87 § 1, 119, 120, 122 (800 zł) dopisane obok historycznych wpisów 2025 poz. 734.
 - 3.73 (2026-10-22, AUDYT-2026-10-22): KW — nowy t.j. Dz.U. 2026 poz. 1372 (obwieszczenie 2.10.2026, ogł. 21.10.2026, stan 23.09.2026; ujmuje 2025/1676, 1814, 1818, 1872; ELI: brak aktów zmieniających po t.j.). Treść modułów bez zmian merytorycznych — wszystkie cztery nowelizacje były już ujęte; kontrola text.pdf: art. 24 §1a, 45, 86c, 92a §2, 119, 120 zgodne. Zmienione cytowania bazy t.j. w MAPA-AKTOW, SKILL.md, mod-KW-*, mod-grzywny, mod-PRD-*, kwalifikator part-08, mod-KK-art255b; stemple VER historyczne pozostawione.

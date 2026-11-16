@@ -1,5 +1,14 @@
 # CHANGELOG — dr-12-sadownictwo-prokuratura-zawody-prawnicze
 
+- 4.41 (2026-11-15): DR-12: ustawa zawodowa przed KPK (art. 93 ust. 4 PoA), termin odwołania od odmowy wszczęcia (art. 91 ust. 2, 88a ust. 4 PoA), dokumenty spoza akt, SN SDI z rejestru WSD (ELI 2026-11-15)
+- 4.40 (2026-11-15): DR-12: sądownictwo dyscyplinarne samorządu psychologów (Dz.U. 2026 poz. 187, ELI 2026-11-15); podbij_wersje: pełna lista plików w CHECKSUMS
+- 4.39 (2026-11-15): DR-02: testy prawa upadłościowego (okno znacznika poziomu A); odesłania do KATALOG-TJ w DR; mapy_tj zachowuje katalog w przebiegu dziennym; check_procedowane zarejestrowany
+- 4.38 (2026-11-15): Pełny katalog obowiązujących t.j. (2 664 akty z ELI) w KATALOG-TJ dziedzin i prawo-polskie-v2: dziedzina z nagłówka modułu, podstawy prawnej aktu wykonawczego albo tytułu; monitoring projektów ustaw (PROJEKTY-W-TOKU), lista zmian od ostatniej aktualizacji systemu (ZMIANY-OD-AKTUALIZACJI, STAN-AKTUALIZACJI.json)
+- 4.37 (2026-11-14): Konwencja t.j.: KATALOG-TJ.md w DR-01…15 i prawo-polskie-v2 (akty z nagłówków modułów), MAPA-AKTOW tylko routing z sufiksem t.j., scripts/mapy_tj.py w dziennym workflow ELI
+- 4.36 (2026-11-14): Mapy aktów w jednej konwencji t.j.: MAPA-AKTOW DR-01…15 uzupełnione o 105 aktów z nagłówków modułów (sekcja RAG bez wpływu na routing), sufiks t.j. w tabelach routingu, LEGAL-REGISTRY: 247 tekstów jednolitych systemu; scripts/mapy_tj.py w dziennym workflow ELI
+- 4.35 (2026-11-14): DR-12: wskazania z kwalifikatorem (USP, PrProk 2026/810, PrAdw, URP, PrNot, komornicy 2026/881, UKSC, kuratorzy 2026/200, regulatorzy)
+- 4.34 (2026-11-14): METODYKA W-1…W-7: mod-ustawa-KRS-rejestr-sadowy (t.j. 2025/869 + 7 nowelizacji, pułapka MSiG od 2025-11-29) i mod-KSH-wrogie-przejecie (KSH + uoof t.j. 2025/592, art. 80a–80b); DR-12: OIRP Katowice i Rzeszów; rejestr zmian w czasie
+- 4.33 (2026-11-14): Tabela OIRP: aktualne adresy archiwów orzeczeń OSD Lublin (oirp.lu) i Warszawa (oirpwarszawa.pl/temidium), zweryfikowane 2026-11-14
 - 4.32 (2026-11-06): migracja prawa polskiego E3: ścieżki odwołań do modułów przeniesionych z shared i skilli wykonawczych do prawo-polskie-v2/krajowe/ (treść bez zmian)
 - 4.31 (2026-11-04, AUDYT-2026-11-04): MAPA-AKTOW: Prawo o prokuraturze — art. 11 § 1 (roczna informacja PG o kontroli operacyjnej) zm. Dz.U. 2026 poz. 1281 art. 8, w mocy 31.10.2026.
 - 4.30 (2026-10-20, AUDYT-2026-10-20g): SKILL.md: znacznik `lex:wykonuje-aplikacja: REJESTR-MODULOW` nad rejestrem modułów — w trybie mechanicznym aplikacja podaje modelowi indeks nazw (moduły aktów dobiera z MAPA-AKTOW), w AUTO rejestr w całości

@@ -1,6 +1,6 @@
 ---
 name: dr-06-podatki-finanse-publiczne-aml
-version: "3.99.12"
+version: "3.99.22"
 description: "Podatki, finanse publiczne i AML: Ordynacja podatkowa, PIT, CIT, VAT, akcyza, cło, KAS, finanse publiczne i obowiązki przeciwdziałania praniu pieniędzy."
 dependencies:
   requires:
@@ -681,7 +681,7 @@ przez cross-reference, bez duplikacji treści).
   [✓] OK    mod-limit-platnosci-gotowkowych
               (v1.1.0, dodany 2026-07-27, ZAREJESTROWANY 2026-08-14
                przy naprawie F-33: art. 19 Prawa przedsiębiorców
-               [t.j. Dz.U. 2025 poz. 1480] — limit płatności
+               [t.j. Dz.U. 2026 poz. 1484] — limit płatności
                gotówkowych między przedsiębiorcami i skutki
                podatkowe jego przekroczenia)
   [✓] OK    mod-ustawa-rachunkowosci
@@ -744,6 +744,8 @@ view dr-06-podatki-finanse-publiczne-aml/modules/[nazwa-modulu].md
 ```
 view dr-06-podatki-finanse-publiczne-aml/MAPA-AKTOW.md
 ```
+
+Akt bez wiersza w mapie: katalog wszystkich obowiązujących tekstów jednolitych dziedziny w konwencji modułów (t.j., zmiany po t.j., moduły) — `dr-06-podatki-finanse-publiczne-aml/KATALOG-TJ.md`. Brzmienie przepisu zawsze z ELI.
 
 Bazy aktów (rejestry pomocnicze — kierunek, nie weryfikacja; KROK 2C
 `prawo-polskie-v2/krajowe/shared/PRAWO-HARDGATE.md` obowiązuje przy każdym użyciu):

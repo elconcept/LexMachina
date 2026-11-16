@@ -1,5 +1,15 @@
 # CHANGELOG — dr-06-podatki-finanse-publiczne-aml
 
+- 3.99.22 (2026-11-15): DR-02: testy prawa upadłościowego (okno znacznika poziomu A); odesłania do KATALOG-TJ w DR; mapy_tj zachowuje katalog w przebiegu dziennym; check_procedowane zarejestrowany
+- 3.99.21 (2026-11-15): Pełny katalog obowiązujących t.j. (2 664 akty z ELI) w KATALOG-TJ dziedzin i prawo-polskie-v2: dziedzina z nagłówka modułu, podstawy prawnej aktu wykonawczego albo tytułu; monitoring projektów ustaw (PROJEKTY-W-TOKU), lista zmian od ostatniej aktualizacji systemu (ZMIANY-OD-AKTUALIZACJI, STAN-AKTUALIZACJI.json)
+- 3.99.20 (2026-11-14): Konwencja t.j.: KATALOG-TJ.md w DR-01…15 i prawo-polskie-v2 (akty z nagłówków modułów), MAPA-AKTOW tylko routing z sufiksem t.j., scripts/mapy_tj.py w dziennym workflow ELI
+- 3.99.19 (2026-11-14): Mapy aktów w jednej konwencji t.j.: MAPA-AKTOW DR-01…15 uzupełnione o 105 aktów z nagłówków modułów (sekcja RAG bez wpływu na routing), sufiks t.j. w tabelach routingu, LEGAL-REGISTRY: 247 tekstów jednolitych systemu; scripts/mapy_tj.py w dziennym workflow ELI
+- 3.99.18 (2026-11-14): DR-06: wskazania z kwalifikatorem (OP, VAT, PIT, CIT, PCC, akcyza, KAS, AML); akcyza 2026 — podstawa art. 165a; PCC próg 3000 zł od 3.11.2026; W-4 dla 2026/1102, 1270, 1347, 1354, 1446
+- 3.99.17 (2026-11-14): Bazy urzędów i sądów dyscyplinarnych w orzeczenia-sadowe-v2; KAS na t.j. 2026/1492 (poprawki art. 63, 77, 82-83 UKAS); DR-02: Prawo przedsiębiorców, zastaw rejestrowy (2025/1792 i 2026/1073 jeszcze nie obowiązują)
+- 3.99.16 (2026-11-13): mod-VAT-WIS: opłata — art. 42e (art. 42d uchylony); mod-podatki-sektorowe: reglamentacja → mod-wekslowe-kontrola-przedsiebiorcy-koncesje (ELI 2026-11-13)
+- 3.99.15 (2026-11-13): t.j. (ELI 2026-11-13): KAS Dz.U. 2026 poz. 1492 (zastępuje 2025/1131; obejmuje 2026/1281), Prawo przedsiębiorców Dz.U. 2026 poz. 1484 — MAPA-AKTOW, SKILL, mod-KAS, mod-limit-platnosci-gotowkowych
+- 3.99.14 (2026-11-11, ELI 2026-11-11): MAPA-AKTOW: CIT — zmiany po t.j. 2026/554 wg ELI: 2026/779, 912 (art. 17 ust. 1 pkt 4g), 846, 1287, 1371; ⏳ 2026/1123 od 1.01.2028.
+- 3.99.13 (2026-11-11, ELI 2026-11-11): UFP — t.j. Dz.U. 2026 poz. 1447 (zastępuje 2025/1483; obejmuje 2021/2054 z 2025/1844, 2025/1846, 2026/426, 635, 680, 912); mod-UFP: art. 243 ust. 3 pkt 1a (wyłączenie wykupu papierów wartościowych z limitu); MAPA-AKTOW.
 - 3.99.12 (2026-11-07): Martwa ścieżka shared/PRAWO-HARDGATE.md w mod-VAT poprawiona na prawo-polskie-v2/krajowe/shared/PRAWO-HARDGATE.md (inspekcja dr-*)
 - 3.99.11 (2026-11-06): migracja prawa polskiego E3: ścieżki odwołań do modułów przeniesionych z shared i skilli wykonawczych do prawo-polskie-v2/krajowe/ (treść bez zmian)
 - 3.99.10 (2026-11-04, AUDYT-2026-11-04): MAPA-AKTOW: KAS — zm. Dz.U. 2026 poz. 1281 art. 9 (art. 118, 122 ust. 4, 123 — kontrola operacyjna), w mocy 31.10.2026. 2026/1287 (w mocy 1.11.2026) i 2026/1354 art. 3 (PCC, w mocy 3.11.2026) — wpisy już z datami, bez zmian treści.

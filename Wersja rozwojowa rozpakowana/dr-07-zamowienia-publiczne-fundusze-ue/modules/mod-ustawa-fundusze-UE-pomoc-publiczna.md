@@ -1,10 +1,18 @@
 # mod-ustawa-fundusze-UE-pomoc-publiczna
 
+**Akt:** PZP (Prawo zamówień publicznych) — t.j. Dz.U. 2026 poz. 793 (zm. po t.j.: 2026/1347 [OD 2026-12-01: 2026/1347] — art. 214, 364).
+**Akt:** NIK (ustawa o Najwyższej Izbie Kontroli) — t.j. Dz.U. 2022 poz. 623 (zm. po t.j.: 2026/26 [OD 2027-01-01: 2026/26] — art. 92, 93).
+**Akt:** URIO (ustawa o regionalnych izbach obrachunkowych) — t.j. Dz.U. 2025 poz. 7.
+**Akt:** UFP (ustawa o finansach publicznych) — t.j. Dz.U. 2026 poz. 1447.
+**Akt:** UZRFE (ustawa o zasadach realizacji zadań finansowanych ze środków europejskich 2021–2027) — t.j. Dz.U. 2025 poz. 1733.
+**Akt:** UPSPP (ustawa o postępowaniu w sprawach dotyczących pomocy publicznej) — t.j. Dz.U. 2026 poz. 500.
+**Moduł wskazuje przepis i jego funkcję (kwalifikator), nie zastępuje brzmienia.** Kwalifikatory sprawdzone z t.j. w ELI 2026-11-14 (W-1: terminy, progi i kwoty porównane z t.j.).
+
 **Status:** moduł klasy kancelaryjnej — poziom DR-03
 **Źródło weryfikacji:** Ustawa wdrożeniowa 2021-2027 (zasady realizacji zadań finansowanych
 ze środków europejskich w perspektywie finansowej 2021-2027, z 28.04.2022) — Dz.U. 2025
 poz. 1733 t.j. (pierwszy t.j.; akt pierwotny Dz.U. 2022 poz. 1079; po t.j.: 2025/1844, 2026/912 — ELI 2026-10-09) | Ustawa o zasadach prowadzenia polityki rozwoju
-(z 6.12.2006) — Dz.U. 2025 poz. 198 t.j. (obwieszczenie 5.02.2025; zastępuje t.j. 2024.324)
+(z 6.12.2006) — Dz.U. 2026 poz. 1366 t.j. (obwieszczenie 17.09.2026, stan na 8.09.2026; ELI 2026-11-11; obejmuje Dz.U. 2025 poz. 1846: art. 5 pkt 7ac, art. 14ll–14lr, nowy rozdz. 2ac — inwestycja KPO w zakresie bezpieczeństwa i obronności; hierarchia dokumentów strategicznych bez zmian; poprzedni t.j. 2025.198)
 | Ustawa o postępowaniu w sprawach pomocy publicznej — Dz.U. 2026 poz. 500 t.j. (poprzedni
 t.j.: Dz.U. 2024 poz. 1635; Dz.U. 2023 poz. 702) ✅ VER: 2026-08-15
 **Data weryfikacji online:** 2026-08-15 — FAZA 3E (audyt-systemu-v4): ⛔ CRIT-TREŚĆ
@@ -25,7 +33,7 @@ Perspektywa finansowa UE 2021–2027 (EFRR, EFS+, Fundusz Spójności, FST), ins
 | Akt | Dz.U. |
 |---|---|
 | Ustawa wdrożeniowa 2021–2027 (realizacja zadań fin. ze środków europejskich, 28.04.2022) | Dz.U. 2025 poz. 1733 t.j. (pierwszy t.j.; akt pierwotny Dz.U. 2022 poz. 1079; po t.j.: 2025/1844, 2026/912 — ELI 2026-10-09) |
-| Ustawa o zasadach prowadzenia polityki rozwoju (6.12.2006) | Dz.U. 2025 poz. 198 t.j. (obwieszczenie 5.02.2025; zastępuje t.j. 2024.324) |
+| Ustawa o zasadach prowadzenia polityki rozwoju (6.12.2006) | Dz.U. 2026 poz. 1366 t.j. (obwieszczenie 17.09.2026; poprzedni t.j. 2025.198) |
 | Ustawa o postępowaniu w sprawach pomocy publicznej | Dz.U. 2026 poz. 500 t.j. (poprzedni t.j.: Dz.U. 2024 poz. 1635; Dz.U. 2023 poz. 702) ✅ VER: 2026-08-15 |
 | Rozporządzenie ogólne UE 2021/1060 | stosowane bezpośrednio — funduszowe |
 | Rozporządzenia EFRR, EFS+, FS | stosowane bezpośrednio |
@@ -127,7 +135,7 @@ ZWROT POMOCY NIEZGODNEJ:
 ## 5. DOKUMENTY POLITYKI ROZWOJU
 
 ```
-Ustawa o polityce rozwoju — Dz.U. 2025 poz. 198 t.j. (obwieszczenie 5.02.2025):
+Ustawa o polityce rozwoju — Dz.U. 2026 poz. 1366 t.j. (obwieszczenie 17.09.2026):
 
 Hierarchia dokumentów:
   DSRK — Długookresowa Strategia Rozwoju Kraju (> 10 lat)
@@ -160,7 +168,7 @@ Instrumenty realizacji:
 
 **Strategia:** Przy zwrocie dotacji — zaskarż decyzję i kwestionuj taryfikator korekt (nieproporcjonalne). Przy de minimis — zawsze weryfikuj limit w SUDOP przed udzieleniem. Przy kontroli — dostarcz pełną dokumentację zanim wynik kontroli zostanie zatwierdzony.
 
-**Quality gate:** Termin protestu (14 dni) / odwołania (14 dni) obliczony? Nowe de minimis 300 000 EUR (od 01.01.2024) zastosowane? Ustawa wdrożeniowa 2021-2027 — aktualny t.j. Dz.U. 2025 poz. 1733? Ustawa polityki rozwoju — aktualny t.j. Dz.U. 2025 poz. 198?
+**Quality gate:** Termin protestu (14 dni) / odwołania (14 dni) obliczony? Nowe de minimis 300 000 EUR (od 01.01.2024) zastosowane? Ustawa wdrożeniowa 2021-2027 — aktualny t.j. Dz.U. 2025 poz. 1733? Ustawa polityki rozwoju — aktualny t.j. Dz.U. 2026 poz. 1366?
 
 **Output:** Kwalifikacja (fundusz / instrument) → etap → termin → dowody → korekty → strategia → rekomendacja.
 

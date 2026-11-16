@@ -1,5 +1,12 @@
 # CHANGELOG — dr-11-cyfrowe-cyber-ai-dane-ip
 
+- 3.41 (2026-11-15): DR-02: testy prawa upadłościowego (okno znacznika poziomu A); odesłania do KATALOG-TJ w DR; mapy_tj zachowuje katalog w przebiegu dziennym; check_procedowane zarejestrowany
+- 3.40 (2026-11-15): Pełny katalog obowiązujących t.j. (2 664 akty z ELI) w KATALOG-TJ dziedzin i prawo-polskie-v2: dziedzina z nagłówka modułu, podstawy prawnej aktu wykonawczego albo tytułu; monitoring projektów ustaw (PROJEKTY-W-TOKU), lista zmian od ostatniej aktualizacji systemu (ZMIANY-OD-AKTUALIZACJI, STAN-AKTUALIZACJI.json)
+- 3.39 (2026-11-14): Konwencja t.j.: KATALOG-TJ.md w DR-01…15 i prawo-polskie-v2 (akty z nagłówków modułów), MAPA-AKTOW tylko routing z sufiksem t.j., scripts/mapy_tj.py w dziennym workflow ELI
+- 3.38 (2026-11-14): Mapy aktów w jednej konwencji t.j.: MAPA-AKTOW DR-01…15 uzupełnione o 105 aktów z nagłówków modułów (sekcja RAG bez wpływu na routing), sufiks t.j. w tabelach routingu, LEGAL-REGISTRY: 247 tekstów jednolitych systemu; scripts/mapy_tj.py w dziennym workflow ELI
+- 3.37 (2026-11-14): DR-11: wskazania z kwalifikatorem (UODO, KSC 2026/20, PKE 2024/1221, PrAut, PWP, UZNK 2026/85); MiCA — brak krajowej ustawy wykonawczej w ELI, organ oznaczony jako niezweryfikowany
+- 3.36 (2026-11-13): mod-ustawa-uslugi-elektroniczne: zakaz niezamówionej informacji handlowej — art. 398 Prawa komunikacji elektronicznej (Dz.U. 2024 poz. 1221); art. 10 UŚUDE uchylony (ELI 2026-11-13)
+- 3.35 (2026-11-11, ELI 2026-11-11): MAPA-AKTOW: prawo autorskie — zmiana po t.j. 2026/1477 (art. 35¹ ust. 7 wynagrodzenie za użyczanie, nowy art. 127², od 10.11.2026); moduły bez zmian (przepisy nieomawiane).
 - 3.34 (2026-11-06): migracja prawa polskiego E3: ścieżki odwołań do modułów przeniesionych z shared i skilli wykonawczych do prawo-polskie-v2/krajowe/ (treść bez zmian)
 - 3.33 (2026-10-31, BENCHMARK-02-LIVE): SKILL.md: sekcja Pułapki (deepfake + wytyczne KE; pola eksploatacji + art. 65 § 2 KC).
 - 3.32 (2026-10-31, BENCHMARK-02): mod-AI-Act-framework: deepfake (art. 3 pkt 60, art. 50 ust. 4) i wytyczne KE jako soft law (art. 96 ust. 1 lit. d; Cellar PL) — benchmark 02 P08. mod-PrAut-wlasnosc-intelektualna-IP: klauzula „wszelkie pola eksploatacji” — konkluzja warunkowa z art. 65 § 2 KC; art. 41 ust. 4 bez „nieważności” — P09/P10.

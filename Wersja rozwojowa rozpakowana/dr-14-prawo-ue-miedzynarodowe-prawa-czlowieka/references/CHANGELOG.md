@@ -1,5 +1,11 @@
 # CHANGELOG — dr-14-prawo-ue-miedzynarodowe-prawa-czlowieka
 
+- 3.23 (2026-11-15): DR-02: testy prawa upadłościowego (okno znacznika poziomu A); odesłania do KATALOG-TJ w DR; mapy_tj zachowuje katalog w przebiegu dziennym; check_procedowane zarejestrowany
+- 3.22 (2026-11-15): Pełny katalog obowiązujących t.j. (2 664 akty z ELI) w KATALOG-TJ dziedzin i prawo-polskie-v2: dziedzina z nagłówka modułu, podstawy prawnej aktu wykonawczego albo tytułu; monitoring projektów ustaw (PROJEKTY-W-TOKU), lista zmian od ostatniej aktualizacji systemu (ZMIANY-OD-AKTUALIZACJI, STAN-AKTUALIZACJI.json)
+- 3.21 (2026-11-14): Konwencja t.j.: KATALOG-TJ.md w DR-01…15 i prawo-polskie-v2 (akty z nagłówków modułów), MAPA-AKTOW tylko routing z sufiksem t.j., scripts/mapy_tj.py w dziennym workflow ELI
+- 3.20 (2026-11-14): Mapy aktów w jednej konwencji t.j.: MAPA-AKTOW DR-01…15 uzupełnione o 105 aktów z nagłówków modułów (sekcja RAG bez wpływu na routing), sufiks t.j. w tabelach routingu, LEGAL-REGISTRY: 247 tekstów jednolitych systemu; scripts/mapy_tj.py w dziennym workflow ELI
+- 3.19 (2026-11-14): DR-14: wskazania z kwalifikatorem (Konstytucja, UUM 2020/127, PPM 2023/503, KPC, kontrola inwestycji 2026/47, cudzoziemcy, ochrona, UOAN)
+- 3.18 (2026-11-11, LEGAL GAUNTLET v3 E4): mod-EKPC-ETPC §11 — bramki skargi do ETPC E-1–E-7: wyczerpanie każdego zarzutu, termin od właściwej ostatecznej decyzji (scenariusze przy niepewnej dacie), czwarta instancja, zakres artykułu, status ofiary i istotna niekorzyść, formularz z reguły 47 (zarzut tylko w załączniku, limity z aktualnej Practice Direction), kompletowanie bez nowych zarzutów; parametry wyłącznie z echr.coe.int w dniu składania.
 - 3.17 (2026-11-06): migracja prawa polskiego E3: ścieżki odwołań do modułów przeniesionych z shared i skilli wykonawczych do prawo-polskie-v2/krajowe/ (treść bez zmian)
 - 3.16 (2026-10-20, AUDYT-2026-10-20g): SKILL.md: znacznik `lex:wykonuje-aplikacja: REJESTR-MODULOW` nad rejestrem modułów — w trybie mechanicznym aplikacja podaje modelowi indeks nazw (moduły aktów dobiera z MAPA-AKTOW), w AUTO rejestr w całości
 - 3.15 (2026-10-12b, AUDYT-2026-10-12b): mod-inwestycje-transgraniczne-FDI-BIT, MAPA-AKTOW, SKILL.md: po t.j. 2026/47 — zm. 2026/815 (art. 12d ust. 2 pkt 1, od 4.07.2026). ELI 2026-10-12.

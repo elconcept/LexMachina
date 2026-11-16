@@ -1,5 +1,9 @@
 # mod-DE-finanse-publiczne-nik-rio-dyscyplina — Finanse publiczne, NIK, RIO i dyscyplina finansów publicznych
 
+**Akt:** OP — t.j. Dz.U. 2026 poz. 622 (zm. po t.j.: 2026/1154 od 2026-09-16 — art. 299; 2026/825 od 2026-09-24 — art. 14i, 14j; 2026/846 od 2026-10-01 — art. 11j, 12, 14b, 17, 17a, 18c, 21, 23v, 52, 59, 60, 62, 62b, 63, 67a, 67d, 74, 75, 76b, 77; 2026/875 [OD 2027-01-01: 2026/875] — art. 67a; 2026/1098 [OD 2027-01-01: 2026/1098] — art. 3b, 297, 298, 299, 299c, 306; 2026/1206 [OD 2027-01-11: 2026/1206] — art. 119zg).
+**Akt:** UKAS (ustawa o Krajowej Administracji Skarbowej) — t.j. Dz.U. 2026 poz. 1492.
+**Moduł wskazuje przepis i jego funkcję (kwalifikator), nie zastępuje brzmienia.** Kwalifikatory sprawdzone z t.j. w ELI 2026-11-14 (W-1: terminy, progi i kwoty porównane z t.j.).
+
 Status modułu: pełny moduł prawa polskiego klasy wzorcowej — analogiczny funkcjonalnie do modułów prawa pracy i prawa karnego.
 Data wdrożenia: 2026-05-28
 Źródło prawa: ISAP jako źródło podstawowe; LEX/Legalis pomocniczo wyłącznie przy braku bezpośredniego dostępu do aktu lub komentarza.
@@ -135,7 +139,7 @@ Przed wygenerowaniem pisma lub analizy odpowiedz na każde pytanie:
 ## STATUS KANCELARSKI
 
 **Status:** moduł klasy kancelaryjnej — poziom DR-03
-**Źródło weryfikacji:** UFP — **Dz.U. 2025 poz. 1483 t.j.** ✅ [VER] RZĄD 1 2026-09-10o ⛔ KROK 2C: 5 nowelizacji po tekście jednolitym (poprzednio 2024 poz. 1530 — wygaśnięcie aktu) t.j. | Ustawa o dyscyplinie finansów publicznych — weryfikuj aktualny t.j. w ISAP | Ustawa o NIK — weryfikuj aktualny t.j. w ISAP | Ustawa o RIO — weryfikuj aktualny t.j. w ISAP
+**Źródło weryfikacji:** UFP — **Dz.U. 2026 poz. 1447 t.j.** ✅ [VER] RZĄD 1 ELI 2026-11-11 (obwieszczenie 2.10.2026, stan na 27.09.2026; obejmuje 2021/2054 z 2025/1844, 2025/1846, 2026/426, 635, 680, 912; poprzednio t.j. 2025 poz. 1483). Zmiana istotna dla relacji z art. 242–244: art. 243 ust. 3 pkt 1a — z ograniczenia wyłączono wykupy papierów wartościowych emitowanych w związku z umową na program, projekt lub zadanie finansowane ze środków z art. 5 ust. 1 pkt 2, wraz z odsetkami i dyskontem. | Ustawa o dyscyplinie finansów publicznych — weryfikuj aktualny t.j. w ISAP | Ustawa o NIK — weryfikuj aktualny t.j. w ISAP | Ustawa o RIO — weryfikuj aktualny t.j. w ISAP
 **Data weryfikacji online:** 2026-06-05
 
 ---

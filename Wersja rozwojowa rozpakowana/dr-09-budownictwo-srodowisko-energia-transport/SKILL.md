@@ -1,6 +1,6 @@
 ---
 name: dr-09-budownictwo-srodowisko-energia-transport
-version: "3.58"
+version: "3.68"
 description: "Budownictwo, środowisko, energia i transport: prawo budowlane, planowanie, odpady, ochrona środowiska, energetyka, drogi i regulacje transportowe."
 dependencies:
   requires:
@@ -88,7 +88,7 @@ Przy sprawach z tej dziedziny rozważ doładowanie (`view`) definicji:
 - BAS-W14 ⚠️ Reforma upol 2025 — nowe definicje budynek/budowla (dot. też DR-06)
 
 <!-- lex:wykonuje-aplikacja: REJESTR-MODULOW -->
-## Moduły (38 łącznie — ✓ 38 OK, ☐ 0 STUB)
+## Moduły (39 łącznie — ✓ 39 OK, ☐ 0 STUB)
 
 ```
 BUDOWNICTWO:
@@ -451,7 +451,7 @@ BUDOWNICTWO:
                zwierzynę [odesłanie do art. 15 Rozdz. 3]; ⭐⭐ art. 22a —
                dwuetapowa sankcja [wezwanie → decyzja o zakazie na SZTYWNE
                3 lata]; art. 22b — odesłanie do Prawa przedsiębiorców,
-               ⭐ ROZSTRZYGNIĘTA aktualna metryka **Dz.U. 2025 poz. 1480**
+               ⭐ ROZSTRZYGNIĘTA metryka **Dz.U. 2025 poz. 1480** (od 10.11.2026 t.j. **Dz.U. 2026 poz. 1484**, ELI)
                [potwierdzona bezpośrednio w ISAP i dziennikustaw.gov.pl]
                wobec rozbieżnych starszych metryk cytowanych przez różne
                źródła Rządu 2B. 5 punktów ⚠️ NIEWERYFIKOWANE, w tym możliwa
@@ -524,6 +524,8 @@ TRANSPORT:
               (KZN: zasób, przekazywanie nieruchomości, Komisja Rozjemcza, organy, najem i SIM/TBS; t.j. Dz.U. 2026 poz. 1299)
   [✓] NOWY  mod-ustawa-obszary-morskie-administracja-morska
               (obszary morskie, pozwolenia na sztuczne wyspy/MFW i kable, plan zagospodarowania obszarów morskich, administracja morska, kary do 1 000 000 SDR; t.j. Dz.U. 2026 poz. 1305)
+  [✓] NOWY  mod-umowa-przewozu-CMR-konwencje-przewozowe
+              (umowa przewozu i odpowiedzialność przewoźnika: KC art. 774–793, Prawo przewozowe t.j. Dz.U. 2024 poz. 1262, CMR Dz.U. 1962 poz. 238 z Protokołami 1978 i e-CMR 2008, Konwencja montrealska Dz.U. 2007 poz. 235, system warszawski, COTIF/CIM, konwencja o konosamentach; ELI 2026-11-09)
 ```
 
 ---
@@ -539,6 +541,8 @@ view dr-09-budownictwo-srodowisko-energia-transport/modules/[nazwa-modulu].md
 ```
 view dr-09-budownictwo-srodowisko-energia-transport/MAPA-AKTOW.md
 ```
+
+Akt bez wiersza w mapie: katalog wszystkich obowiązujących tekstów jednolitych dziedziny w konwencji modułów (t.j., zmiany po t.j., moduły) — `dr-09-budownictwo-srodowisko-energia-transport/KATALOG-TJ.md`. Brzmienie przepisu zawsze z ELI.
 
 ## Mapa pokrycia treściowego (planowanie rozwoju skilla)
 

@@ -1,5 +1,12 @@
 # CHANGELOG — dr-08-samorzad-terytorialny-prawo-lokalne
 
+- 3.31 (2026-11-15): DR-02: testy prawa upadłościowego (okno znacznika poziomu A); odesłania do KATALOG-TJ w DR; mapy_tj zachowuje katalog w przebiegu dziennym; check_procedowane zarejestrowany
+- 3.30 (2026-11-15): Pełny katalog obowiązujących t.j. (2 664 akty z ELI) w KATALOG-TJ dziedzin i prawo-polskie-v2: dziedzina z nagłówka modułu, podstawy prawnej aktu wykonawczego albo tytułu; monitoring projektów ustaw (PROJEKTY-W-TOKU), lista zmian od ostatniej aktualizacji systemu (ZMIANY-OD-AKTUALIZACJI, STAN-AKTUALIZACJI.json)
+- 3.29 (2026-11-14): Konwencja t.j.: KATALOG-TJ.md w DR-01…15 i prawo-polskie-v2 (akty z nagłówków modułów), MAPA-AKTOW tylko routing z sufiksem t.j., scripts/mapy_tj.py w dziennym workflow ELI
+- 3.28 (2026-11-14): Mapy aktów w jednej konwencji t.j.: MAPA-AKTOW DR-01…15 uzupełnione o 105 aktów z nagłówków modułów (sekcja RAG bez wpływu na routing), sufiks t.j. w tabelach routingu, LEGAL-REGISTRY: 247 tekstów jednolitych systemu; scripts/mapy_tj.py w dziennym workflow ELI
+- 3.27 (2026-11-14): DR-08: wskazania z kwalifikatorem; dochody JST — model ustawy z 1.10.2024 (art. 8: udziały od dochodów), t.j. 2026/1252; UDP art. 13b ust. 4–5 i 13f z płacą min. 2026/2027; W-4 2024/1907
+- 3.26 (2026-11-14): 2026/912 w modułach DR-08/DR-09; poprawki: skarga na uchwałę RIO do WSA (art. 98 USG), decyzja WZ wygasa po 5 latach (art. 64c UPZP)
+- 3.25 (2026-11-11, ELI 2026-11-11): NOWY mod-zwiazki-metropolitalne: ustawa o związku metropolitalnym w woj. pomorskim (Dz.U. 2026 poz. 912, od 31.07.2026; związek nieutworzony — brak rozporządzenia RM w ELI) i ustawa śląska (t.j. 2025/186 + 2026/912 art. 81; rozporządzenie RM 2017/1290); MAPA-AKTOW: wiersze związków i zmiany po t.j. (USG 912 art. 65, ⏳ 2026/1273; USP 2026/252, 912; ogłaszanie aktów 912 art. 71; MPZP 2026/781, 864, 912; czystość 912 art. 68; rewitalizacja 912 art. 80); MAPA-POKRYCIA.
 - 3.24 (2026-11-06): migracja prawa polskiego E3: ścieżki odwołań do modułów przeniesionych z shared i skilli wykonawczych do prawo-polskie-v2/krajowe/ (treść bez zmian)
 - 3.23 (2026-10-22, AUDYT-2026-10-22): mod-UDP-strefy-platnego-parkowania: KW t.j. Dz.U. 2026 poz. 1372 (było 2025/734); art. 92 §1 bez zmian.
 - 3.22 (2026-10-20, AUDYT-2026-10-20g): SKILL.md: znacznik `lex:wykonuje-aplikacja: REJESTR-MODULOW` nad rejestrem modułów — w trybie mechanicznym aplikacja podaje modelowi indeks nazw (moduły aktów dobiera z MAPA-AKTOW), w AUTO rejestr w całości
