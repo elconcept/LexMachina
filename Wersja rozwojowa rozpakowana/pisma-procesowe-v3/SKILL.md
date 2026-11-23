@@ -1,6 +1,6 @@
 ---
 name: pisma-procesowe-v3
-version: "5.54"
+version: "5.58"
 type: executive-pisma
 status: production
 description: "Zaawansowane pisma procesowe: pozwy, odpowiedzi, apelacje, zażalenia i inne pisma wymagające strategii, faktów, dowodów, weryfikacji prawa i finalnej walidacji dokumentu."
@@ -455,7 +455,8 @@ Przed zbudowaniem mapy przesłanka → dowód wykonaj weryfikację twierdzeń st
 > ```
 > view references/engines/pleading-engine-v8.md          (każde pismo złożone — matryca roszczenia)
 > view references/engines/theory-of-case-engine.md      (≥2 roszczenia / apelacja)
-> view references/engines/appellate-engine-v8.md        (⛔ obowiązkowy przy apelacji)
+> view references/engines/appellate-engine-v8.md        (⛔ obowiązkowy przy apelacji, zażaleniu i odwołaniu)
+> + moduły DR (PL): DR-02 mod-KPC-prawomocnosc-granice-apelacji, DR-03 mod-KPK-podstawy-odwolawcze-przeslanki-zarzuty-biegli, DR-04 mod-SUS-ZUS-ubezpieczenia-spoleczne, DR-05 mod-KPA-decyzja-i-odwolanie — sekcje „w praktyce” (⛔ obowiązkowe przy apelacji, zażaleniu i odwołaniu: wybór środka, terminy, praktyka zarzutów)
 > view references/engines/rebuttal-drafting-engine-v9.md (riposta / odpowiedź)
 > view references/engines/prosecution-complaint-engine-v8.md (⛔ obowiązkowy: zażalenie do prokuratury)
 > view references/engines/opponent-pleading-attack-engine-v9.md (analiza pisma przeciwnika)
@@ -485,6 +486,22 @@ KROK ET: Eliminacja tez i weryfikacja przepisów
   ⚠️ EWENTUALNE  → wchodzą jako "ewentualnie" + CV-ALT
   ⛔ WYELIMINOWANE → NIE wchodzą do petitum ani uzasadnienia
 ```
+
+### W1.2c-SW — INWENTARZ ZEZNAŃ ŚWIADKA (⛔ OBOWIĄZKOWE przy SW-DETECT-HARD, F-240)
+
+> Wyzwalacz: pismo podważa / ocenia zeznania świadka albo akta mają ≥2 protokoły jego zeznań.
+> `view shared/MOD-ATAK-NA-SWIADKA.md` → FAZA 0–1A (SW-P1…SW-P6, SW-INW) PRZED CP-1b.
+> Tabela SW-INW w odpowiedzi W1; po każdej zmianie pisma (także PEER-APPLY) `inwentarz_zeznan.py --pismo`.
+> Niewykonane = W1-SW-INW ✗ w ST-FINAL, nie „skrótowo”.
+
+### W1.2c-PT — PISMO W TOKU SPRAWY PO ROZPRAWIE (⛔ OBOWIĄZKOWE, F-241)
+
+> Wyzwalacz: pismo w związku z przebiegiem rozprawy (zeznania, nowy dowód, stanowisko co do dowodu).
+> `view modules/MOD-PISMO-W-TOKU.md` → PT-1 forma (art. 205³ § 5: zwrot pisma przygotowawczego bez
+> zarządzenia; wniosek dowodowy art. 235¹), PT-2 zakres = teza dowodowa sądu + roszczenie,
+> PT-3 styl kancelaryjny, objętość według sprawy, papier firmowy z numeracją stron,
+> PT-4 czysty tekst dla sądu, PT-5 kontrola w W3.
+> Razem z `shared/MOD-ATAK-NA-SWIADKA.md` SW-A1b, SW-A10, SW-CYT, SW-ZRODLA, SW-W4.
 
 ### W1.2c-PRE — KARTY DOWODOWE I ŁAŃCUCHY (gdy ≥2 dokumenty dostarczone)
 

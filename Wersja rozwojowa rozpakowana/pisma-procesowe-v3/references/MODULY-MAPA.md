@@ -45,6 +45,8 @@ W2 — PROJEKT PISMA
 MOD-SZABLONY           W2.1       zawsze gdy redagujesz pismo
                                    (SZ1/SZ3 → szablony eksperckie w
                                    references/templates/ — pozew, odpowiedź na pozew)
+MOD-PISMO-W-TOKU       W1.2c-PT   pismo w toku sprawy po rozprawie: forma (art. 205³ § 5,
+                                   art. 235¹ k.p.c.), zakres = teza dowodowa, styl kancelaryjny, czysty tekst
 MOD-ROUTE              —          WYŁĄCZNIE informacyjna matryca pytań TAK/NIE;
                                    NIE jest routerem, NIE wczytuj jako krok;
                                    view modules/MOD-ROUTE.md (tylko na żądanie)
@@ -52,6 +54,9 @@ MOD-DOWODY             W2.1       gdy użytkownik dostarczył dowody/dokumenty
 MOD-OBAL               W2.1       gdy riposta / odpowiedź na pozew / obalanie
 MOD-OPLATY             W2.1       gdy pismo wszczynające postępowanie
 MOD-ADMIN              W2.1       gdy sprawa adm./KPA/PPSA/WSA/NSA
+ŚRODKI ODWOŁAWCZE      W1.2       gdy apelacja / zażalenie / odwołanie: moduł DR
+                                   środka (DR-02 KPC, DR-03 KPK, DR-04 ZUS, DR-05 KPA),
+                                   sekcja „w praktyce” — wybór środka, terminy, zarzuty
 MOD-TIMING             W2.1       gdy timing złożenia jest istotny (pierwsza
                                    rozprawa <14 dni / prekluzja / korzystne
                                    postanowienie); view shared/MOD-TIMING.md
